@@ -1,19 +1,21 @@
 body {
 
     background-image: url("https://i.imgur.com/Hs9W94z.png");
-    background-repeat: repeat; );
+    background-repeat: repeat;
        
        
 }
 
 h1 {
     text-align: center;
-    background: white;
+    color: white;
+    background: black;
   }
   
   h2 {
     text-align: center;
-    background: white;
+    color: white;
+    background: black;
   }
 #trivia{
     margin-left: 400px;
